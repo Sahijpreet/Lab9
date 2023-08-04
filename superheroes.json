@@ -1,0 +1,42 @@
+{
+    "SquadName" : "Avengers",
+    "homeTown" : "New York",
+    "formed" : 2011,
+    "secretBase" : "Avengers Head Quarter",
+    "active" : true,
+    "members" : [
+      {
+        "name" : "IronMan",
+        "age" : 32,
+        "secretIdentity" : "Tony Stark",
+        "powers" : [
+          "Intelligent",
+          "Scientist",
+          "Armor Creator"
+        ]
+      },
+      {
+        "name" : "Captain America",
+        "age" : 100,
+        "secretIdentity" : "Steve Rogers",
+        "powers" : [
+          "Super Soldier",
+          "Age Slow",
+          "High Stamina"
+        ]
+      },
+      {
+        "name" : "Thor",
+        "age" : 1500,
+        "secretIdentity" : "Thor Odinson",
+        "powers" : [
+          "Norse God of Thunder",
+          "Super Strength",
+          "Mjolnir ",
+          "Stormbreaker"
+          
+        ]
+      }
+    ]
+  }
+  
